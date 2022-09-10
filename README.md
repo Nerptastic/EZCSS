@@ -1,5 +1,5 @@
 # EZCSS
-a small css framework based on Skeleton CSS
+A small css framework based on Skeleton.
 
 
-SkeletonCSS -> http://getskeleton.com/
+Skeleton -> http://getskeleton.com/
